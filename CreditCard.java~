@@ -1,5 +1,6 @@
 
-public class CreditCard{
+public class CreditCard
+{
 String CreditCard;
 //take the given card number
 // ".toString" converts an integer to a string
